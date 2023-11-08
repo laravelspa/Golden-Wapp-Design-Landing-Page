@@ -33,7 +33,7 @@
                   {{ reviewer.timeMessage }}
                   <nuxt-img
                     format="webp"
-                    :src="`/img/mobile/reviewers/${reviewer.icon}.png`"
+                    :src="`img/mobile/reviewers/${reviewer.icon}.png`"
                     alt="icon"
                     style="pointer-events: none"
                     onContextMenu="return false;"

@@ -3,9 +3,10 @@ An 7-section landing page created for the purpose of selling the Natural product
 
 ## Requirements
 - Node v16.20.0
+---
 [Demo](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
 
-[![Golden Wapp Design Landing Page](httpsL..laravelspa//img/portfolio/golden-wapp-design-landing-page/full-page.jpeg "Golden Wapp Design Landing Page")](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
+[![Golden Wapp Design Landing Page](https://laravelspa//img/portfolio/golden-wapp-design-landing-page/full-page.jpeg "Golden Wapp Design Landing Page")](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
 ## Languages
 - **HTML** (Markup Language)
 - **CSS** (Style Sheet Language)

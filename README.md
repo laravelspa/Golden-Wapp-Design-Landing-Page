@@ -6,7 +6,7 @@ An 7-section landing page created for the purpose of selling the Natural product
 ---
 [Demo](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
 
-[![Golden Wapp Design Landing Page](https://laravelspa.site/img/portfolio/golden-wapp-design-landing-page/full-page.jpeg "Golden Wapp Design Landing Page")](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
+[![Golden Wapp Design Landing Page](https://laravelspa.github.io/blog/img/portfolio/golden-wapp-design-landing-page/full-page.jpeg "Golden Wapp Design Landing Page")](https://laravelspa.github.io/Golden-Wapp-Design-Landing-Page)
 ## Languages
 - **HTML** (Markup Language)
 - **CSS** (Style Sheet Language)
